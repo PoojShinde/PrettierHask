@@ -1,0 +1,6 @@
+
+touch .prettierignore
+
+node_modules
+build
+dist
